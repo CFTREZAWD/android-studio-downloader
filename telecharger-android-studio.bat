@@ -17,7 +17,7 @@ set "SCRIPT_VERSION=2.0"
 :: Lien "raw" vers la derniere version de CE fichier (GitHub, Gist...).
 :: Laisse vide pour desactiver l'auto-update du script lui-meme.
 :: Exemple : https://raw.githubusercontent.com/PSEUDO/scripts/main/telecharger-android-studio.bat
-set "SCRIPT_URL="
+set "SCRIPT_URL=https://github.com/CFTREZAWD/android-studio-downloader/edit/main/telecharger-android-studio.bat"
 
 title Telecharger Android Studio
 color 0B
